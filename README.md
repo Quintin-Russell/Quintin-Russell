@@ -1,4 +1,4 @@
-![alt text](https://github.com/Quintin-Russell/practice/blob/main/I%20make%20code%20That%20makes%20things%20work%20(1).pdf "Quintin-Russell README Image")
+![alt text](https://raw.githubusercontent.com/Quintin-Russell/practice/main/oie_KssEwkAANuEw.jpg "Quintin-Russell README Image")
 
 
 - 👋 Hi, I’m `Quintin Russell`

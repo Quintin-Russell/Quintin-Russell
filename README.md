@@ -3,9 +3,29 @@
 
 ## 👋 Hi, I’m Quintin Russell
 
-- 💞️ I'm passionate about designing dynamic web applications and learning how to do better
+- :nut_and_bolt::hammer: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python 
+- :books: Currently studying: Bootstap, Redux, Pandas (Python)
 - 🧠 Constantly asking `why` and `how'd you do that`
-- 👥 I’m looking to collaborate on dynamic projects that make a difference for brands
+
+### :sunglasses: About Me
+
+At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am open to learning new technologies and everything about the software engineering field. 
+
+My motto:
+Everyday is an opportunity to learn something new or improve on a new skill. 
+
+My journey:
+a world traveler and surf bum => Environmental Engineer => Software Engineer 
+(Ask me how!)
+
+Fun Facts:
+-I've studied Brazilian Jiu-Jitsu for 10 years
+-I've lived in 10 different countries
+-I speak 3 languages fluently and am working on my fourth
+
+### :incoming_envelope:Let's Connect
+
+
 - 📍  Southern California, USA
 - 📱 `+1-760-456-9726‬`
 - 📧 `quinn.j.russell@gmail.com`

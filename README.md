@@ -31,7 +31,7 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 ### :incoming_envelope:Let's Connect
 ------
 
-- 📍  Southern California, USA
-- 📱 `+1-760-456-9726‬`
-- 📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)
-- 🖥️ [`LinkedIn`](www.linkedin.com/in/qjrussell/)
+📍  Southern California, USA  
+📱 `+1-760-456-9726‬`  
+📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)  
+🖥️ [`LinkedIn`](www.linkedin.com/in/qjrussell/)  

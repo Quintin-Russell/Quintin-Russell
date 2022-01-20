@@ -19,7 +19,7 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 (Ask me how!)
 
-##### Fun Facts:
+#### Fun Facts:
 - I've studied Brazilian Jiu-Jitsu for 10 years
 - I've lived in 10 different countries
 - I speak 3 languages fluently and am working on my fourth

@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Quintin-Russell/practice/main/oie_KssEwkAANuEw.jpg "Quintin-Russell README Image")
+![alt text](https://raw.githubusercontent.com/Quintin-Russell/practice/main/Quintin-Russell-README.jpg "Quintin-Russell README Image")
 
 
 ## 👋 Hi, I’m Quintin Russell

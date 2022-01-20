@@ -10,6 +10,7 @@
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 
+
 ### :sunglasses: About Me
 ------
 
@@ -26,10 +27,14 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 - I've lived in 10 different countries
 - I speak 3 languages fluently and am working on my fourth
 
+
 ### :incoming_envelope:Let's Connect
 ------
 
 📍  Southern California, USA  
+
 📱 `+1-760-456-9726‬`  
+
 📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)  
+
 🖥️ [`LinkedIn`](www.linkedin.com/in/qjrussell/)  

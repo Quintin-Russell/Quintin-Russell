@@ -11,16 +11,15 @@
 ### :sunglasses: About Me
 ------
 
-At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what i know.
+At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
 
-###### My journey:
-------
+#### My journey:
 
 World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engineer 
 
 (Ask me how!)
 
-###### Fun Facts:
+##### Fun Facts:
 - I've studied Brazilian Jiu-Jitsu for 10 years
 - I've lived in 10 different countries
 - I speak 3 languages fluently and am working on my fourth

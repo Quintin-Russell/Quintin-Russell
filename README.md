@@ -19,9 +19,9 @@ a world traveler and surf bum => Environmental Engineer => Software Engineer
 (Ask me how!)
 
 Fun Facts:
--I've studied Brazilian Jiu-Jitsu for 10 years
--I've lived in 10 different countries
--I speak 3 languages fluently and am working on my fourth
+- I've studied Brazilian Jiu-Jitsu for 10 years
+- I've lived in 10 different countries
+- I speak 3 languages fluently and am working on my fourth
 
 ### :incoming_envelope:Let's Connect
 

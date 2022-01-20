@@ -2,13 +2,14 @@
 
 
 ## 👋 Hi, I’m Quintin Russell
+------
 
 - :hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python 
 - :books: Currently studying: Bootstap, Redux, Pandas (Python)
 - 🧠 Eager to explore opportunities that allow me to learn everyday
 
 ### :sunglasses: About Me
-======
+------
 
 At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
 

@@ -8,6 +8,7 @@
 - 🧠 Eager to explore opportunities that allow me to learn everyday
 
 ### :sunglasses: About Me
+------
 
 At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am open to learning new technologies and everything about the software engineering field. 
 

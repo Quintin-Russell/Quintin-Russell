@@ -2,6 +2,7 @@
 
 
 ## 👋 Hi, I’m Quintin Russell
+------
 
 - :hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python 
 - :books: Currently studying: Bootstap, Redux, Pandas (Python)
@@ -33,4 +34,4 @@ Fun Facts:
 - 📍  Southern California, USA
 - 📱 `+1-760-456-9726‬`
 - 📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)
-- 🖥️ [LinkedIn](www.linkedin.com/in/qjrussell/)
+- 🖥️ [`LinkedIn`](www.linkedin.com/in/qjrussell/)

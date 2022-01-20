@@ -12,10 +12,13 @@
 At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am open to learning new technologies and everything about the software engineering field. 
 
 My motto:
+
 Everyday is an opportunity to learn something new or improve on a new skill. 
 
 My journey:
+
 a world traveler and surf bum => Environmental Engineer => Software Engineer 
+
 (Ask me how!)
 
 Fun Facts:

@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I’m Quintin Russell
 
-- :computer: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python 
+- :hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python 
 - :books: Currently studying: Bootstap, Redux, Pandas (Python)
 - 🧠 Eager to explore opportunities that allow me to learn everyday
 
@@ -18,7 +18,7 @@ Everyday is an opportunity to learn something new or improve on a new skill.
 
 My journey:
 
-a world traveler and surf bum => Environmental Engineer => Software Engineer 
+World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engineer 
 
 (Ask me how!)
 
@@ -28,9 +28,9 @@ Fun Facts:
 - I speak 3 languages fluently and am working on my fourth
 
 ### :incoming_envelope:Let's Connect
-
+------
 
 - 📍  Southern California, USA
 - 📱 `+1-760-456-9726‬`
-- 📧 `quinn.j.russell@gmail.com`
-- 🖥️ `www.linkedin.com/in/qjrussell/`
+- 📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)
+- 🖥️ [LinkedIn](www.linkedin.com/in/qjrussell/)

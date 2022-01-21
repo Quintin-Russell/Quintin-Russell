@@ -38,3 +38,5 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 📧 [`quinn.j.russell@gmail.com`](quinn.j.russell@gmail.com)  
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
+
+:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/Quintin_Russell_Resume_.pdf)

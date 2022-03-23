@@ -6,7 +6,7 @@
 
 :hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python  
 
-:books: Currently studying: Bootstap, Redux, Pandas (Python)  
+:books: Currently studying: React Hooks  
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 

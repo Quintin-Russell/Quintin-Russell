@@ -4,7 +4,7 @@
 ## 👋 Hi, I’m Quintin Russell
 ------
 
-:hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python  
+:hammer_and_wrench: Tools: React.js, JavaScript, jQuery, Express.js, PostgreSQL, Node.js, Python  
 
 :books: Currently studying: React Hooks (adding and managing state in functional components) 
 

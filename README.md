@@ -6,7 +6,7 @@
 
 :hammer_and_wrench: Tools: React.js, JavaScript, Express.js, PostgreSQL, Node.js, Python  
 
-:books: Currently studying: React Hooks (adding and managing state in functional components), refactoring DOM manipulation elements with jQuery  
+:books: Currently studying: React Hooks (adding and managing state in functional components) 
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 

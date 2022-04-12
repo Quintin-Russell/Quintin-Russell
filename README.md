@@ -6,7 +6,7 @@
 
 :hammer_and_wrench: Tools: React.js, JavaScript, jQuery, Express.js, PostgreSQL, Node.js, Python  
 
-:books: Currently studying: React Hooks (adding and managing state in functional components) 
+:books: Current Projects: Portfolio Website coming soon! I am currently designing a full-stack portfolio website to highlight my projects and skills. 
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 

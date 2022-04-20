@@ -6,7 +6,7 @@
 
 :hammer_and_wrench: Tools: React.js, JavaScript, jQuery, Express.js, PostgreSQL, Node.js, Python  
 
-:books: Current Projects: Portfolio Website coming soon! I am currently designing a full-stack portfolio website to highlight my projects and skills. 
+:books: Current Projects: Portfolio Website coming soon! I am currently designing a full-stack portfolio website to highlight my projects and skills, using React Hooks, jQuery, and the react-spring package. 
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 

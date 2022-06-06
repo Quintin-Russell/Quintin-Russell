@@ -6,7 +6,7 @@
 
 :hammer_and_wrench: Tools: React.js, JavaScript, jQuery, Express.js, PostgreSQL, Node.js, Python  
 
-:books: Current Projects: Portfolio Website coming soon! I am currently designing a full-stack portfolio website to highlight my projects and skills, using React Hooks, jQuery, and the react-spring package. 
+:books: Currently Learning: TypeScript, Angular, and Python (MongoDB and Flask) 
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 
@@ -30,6 +30,8 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 ### :incoming_envelope:Let's Connect
 ------
+
+</> [`Portfolio`](www.quintinrussell.us)
 
 📍  Southern California, USA  
 

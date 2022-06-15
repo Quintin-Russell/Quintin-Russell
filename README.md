@@ -33,8 +33,6 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 </> [`Portfolio`](http://www.quintinrussell.us/)
 
-(http://www.quintinrussell.us/)
-
 📍  Southern California, USA  
 
 📱 `+1-760-456-9726‬`  

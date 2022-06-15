@@ -31,7 +31,9 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 ### :incoming_envelope:Let's Connect
 ------
 
-</> [`Portfolio`]([https://www.quintinrussell.us](http://www.quintinrussell.us/))
+</> [`Portfolio`]([https://www.quintinrussell.us])
+
+(http://www.quintinrussell.us/)
 
 📍  Southern California, USA  
 

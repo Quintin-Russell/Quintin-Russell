@@ -4,7 +4,7 @@
 ## 👋 Hi, I’m Quintin Russell
 ------
 
-:hammer_and_wrench: Tools: React.js, TypeScript, JavaScript [React.js, TypeScript, Node.js, jQuery, Express.js, PostgreSQL], Python [Flask]  
+:hammer_and_wrench: Tools: JavaScript [React.js, TypeScript, Node.js, jQuery, Express.js, PostgreSQL], Python [Flask]  
 
 :books: Currently Learning: Vue and Ruby (Next Up: VueX, Ruby on Rails) 
 

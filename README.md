@@ -4,9 +4,9 @@
 ## 👋 Hi, I’m Quintin Russell
 ------
 
-:hammer_and_wrench: Tools: JavaScript [React.js, TypeScript, Node.js, jQuery, Express.js, PostgreSQL], Python [Flask]  
+:hammer_and_wrench: Tools: JavaScript [Vue, React.js, TypeScript, Node.js, jQuery, Express.js, PostgreSQL], Ruby on Rails, Python [Flask]  
 
-:books: Currently Learning: Vue and Ruby (Next Up: VueX, Ruby on Rails) 
+:books: Currently Learning: Docker  
 
 🧠 Eager to explore opportunities that allow me to learn everyday  
 
@@ -14,7 +14,7 @@
 ### :sunglasses: About Me
 ------
 
-At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use React.js, Express.js, CSS, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
+At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use Vue, React.js, Express.js, CSS, Ruby oon Rails, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
 
 #### My journey:
 

@@ -14,7 +14,7 @@
 ### :sunglasses: About Me
 ------
 
-At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use Vue, React.js, Express.js, CSS, Ruby oon Rails, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
+At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use Vue, React.js, Ruby on Rails, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
 
 #### My journey:
 

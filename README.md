@@ -37,4 +37,4 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
 
-:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/Quintin%20Russell%20Resume.pdf)
+:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/QR%20-%20Resume%20-%20Nov2025.pdf)

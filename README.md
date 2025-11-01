@@ -23,7 +23,7 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 (Ask me how!)
 
 #### Fun Facts:
-- I've studied Brazilian Jiu-Jitsu for 10 years
+- I've studied Brazilian Jiu-Jitsu for 13 years
 - I've lived in 10 different countries
 - I speak 3 languages fluently and am working on my fourth
 
@@ -33,7 +33,7 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 </> [`Portfolio`](http://www.quintinrussell.us/)
 
-📍  Southern California, USA  
+📍  Austin, Texas, USA  
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
 

@@ -16,11 +16,6 @@
 
 At my core, I am a constant asker of `why?` and `how did you do that?`. On the outside, I use Vue, React.js, Ruby on Rails, Python, and more to create web-based applications. I am actively looking for opportunities that allow me to learn everyday and improve in what I know.
 
-#### My journey:
-
-World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engineer 
-
-(Ask me how!)
 
 #### Fun Facts:
 - I've studied Brazilian Jiu-Jitsu for 13 years
@@ -37,4 +32,4 @@ World Traveler :arrow_right: Environmental Engineer :arrow_right: Software Engin
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
 
-:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/QR%20-%20Resume%20-%20Nov2025.pdf)
+:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/QR%20-%20Resume.pdf)

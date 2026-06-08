@@ -18,7 +18,7 @@ At my core, I am a constant asker of `why?` and `how did you do that?`. On the o
 
 
 #### Fun Facts:
-- I've studied Brazilian Jiu-Jitsu for 13 years
+- I've studied Brazilian Jiu-Jitsu for 14 years
 - I've lived in 10 different countries
 - I speak 3 languages fluently and am working on my fourth
 
@@ -26,10 +26,10 @@ At my core, I am a constant asker of `why?` and `how did you do that?`. On the o
 ### :incoming_envelope:Let's Connect
 ------
 
-</> [`Portfolio`](http://www.quintinrussell.us/)
+</> [`Portfolio`](https://quintinrusselldev.vercel.app/)
 
-📍  Austin, Texas, USA  
+📍  San Antonio, Texas, USA  
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
 
-:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/Quintin_Russell_Resume_May26.pdf)
+:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/edit/main/README.md#:~:text=Quintin_Russell_Resume_June26)

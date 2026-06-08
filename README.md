@@ -1,4 +1,4 @@
-![alt text](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/banner_img)
+![alt text](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/banner.png)
 
 
 ## 👋 Hi, I’m Quintin Russell

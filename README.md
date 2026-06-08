@@ -32,4 +32,4 @@ At my core, I am a constant asker of `why?` and `how did you do that?`. On the o
 
 🖥️ [`LinkedIn`](https://www.linkedin.com/in/qjrussell/)  
 
-:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/edit/main/README.md#:~:text=Quintin_Russell_Resume_June26)
+:clipboard: [`Resume`](https://github.com/Quintin-Russell/Quintin-Russell/blob/main/Quintin_Russell_Resume_June26.pdf)
